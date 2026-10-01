@@ -237,6 +237,6 @@ curl https://enter.pollinations.ai/api/device/userinfo \
 
 ---
 
-🕐 User-authorized keys default to 7 days. Users can revoke anytime from the dashboard.
+🕐 User-authorized keys default to 360 days. Users can revoke anytime from the dashboard.
 
 [edit this doc](https://github.com/pollinations/pollinations/edit/main/BRING_YOUR_OWN_POLLEN.md) · *h/t [Puter.js](https://docs.puter.com/user-pays-model/) for the idea*
